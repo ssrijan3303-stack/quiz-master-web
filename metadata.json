@@ -1,0 +1,6 @@
+{
+  "name": "AssessAI — Online Mock Test & Quiz Platform",
+  "description": "AI-powered online mock test and technical assessment platform featuring dynamic topic quiz generation, real-time exam interface with question palette, performance analytics, and personalized study feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
